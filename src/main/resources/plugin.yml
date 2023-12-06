@@ -1,0 +1,4 @@
+name: CustomMenuHandler
+version: '${project.version}'
+main: com.github.akagiant.custommenuhandler.CustomMenuHandler
+api-version: '1.20'
